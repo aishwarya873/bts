@@ -1,0 +1,12 @@
+.p{
+    font-family: 'Pacifico', cursive;;
+    font-size: 20px;
+    color: rgb(158, 58, 240);
+}
+#btspics{
+    height: 300px;
+width: 300px;
+}
+body{
+    background-color: rgb(131, 233, 247);
+}
